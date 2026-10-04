@@ -52,15 +52,17 @@ The analysis follows a full pipeline: raw text → cleaned data → sentiment sc
 - *Technology:* Uses Amazon's existing scheduling system, no new software cost
 - *Success signals:* Recovery-time take-up rate, weekly employee feedback
 
-This approach was informed by a real, sourced case study (a fulfillment operation that reduced overtime by 32% and turnover by 24% through employee-driven scheduling flexibility,[myshyft.com](https://www.myshyft.com)), adapted to use only tools already available at no additional cost.
+This approach was informed by a real, sourced case study (a fulfillment operation that reduced overtime by 32% and turnover by 24% through employee-driven scheduling flexibility [myshyft.com](https://www.myshyft.com)), adapted to use only tools already available at no additional cost.
 
 ## Repository Structure
 
+```
 notebooks/      # Google Colab notebooks: cleaning, sentiment, theme tagging, segmentation
 data/           # CSV outputs at each pipeline stage
 visuals/        # Charts, friction flow diagrams, word clouds
 presentation/   # Final 5-slide executive deck (PPTX/PDF)
 README.md
+```
 
 ## Tools Used
 
