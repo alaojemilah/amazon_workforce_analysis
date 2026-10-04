@@ -70,7 +70,7 @@ README.md
 - *Gemini*: initial thematic tagging
 - *Claude.ai*: root cause tree, friction map visualization
 - *Canva AI*: final presentation design
-- *Loom*: recorded walkthrough of findings and recommendation
+- *Loom*: recorded walkthrough of findings and recommendation. Watch the full presentation video here [https://www.loom.com/share/3e32dc0cbd88446e833b9cddaf88bbaa]
 
 ## Author
 
