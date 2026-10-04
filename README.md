@@ -56,13 +56,11 @@ This approach was informed by a real, sourced case study (a fulfillment operatio
 
 ## Repository Structure
 
-
-├── notebooks/        # Google Colab notebooks: cleaning, sentiment, theme tagging, segmentation
-├── data/             # CSV outputs at each pipeline stage
-├── visuals/          # Charts, friction flow diagrams, word clouds
-├── presentation/      # Final 5-slide executive deck (PPTX/PDF)
-└── README.md
-
+notebooks/      # Google Colab notebooks: cleaning, sentiment, theme tagging, segmentation
+data/           # CSV outputs at each pipeline stage
+visuals/        # Charts, friction flow diagrams, word clouds
+presentation/   # Final 5-slide executive deck (PPTX/PDF)
+README.md
 
 ## Tools Used
 
