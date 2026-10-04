@@ -16,13 +16,13 @@ The analysis follows a full pipeline: raw text → cleaned data → sentiment sc
 
 ## Pipeline
 
-1. *Data collection*- Manually gathered Glassdoor reviews and YouTube comments mentioning working conditions at Amazon fulfillment centers.
-2. *Text cleaning*- Lowercased text, removed punctuation, filtered stopwords (NLTK), normalized Unicode characters.
+1. *Data collection* - Manually gathered Glassdoor reviews and YouTube comments mentioning working conditions at Amazon fulfillment centers.
+2. *Text cleaning* - Lowercased text, removed punctuation, filtered stopwords (NLTK), normalized Unicode characters.
 3. *Keyword & n-gram frequency analysis*: Identified the most common words and phrases across reviews to surface recurring themes.
-4. *Sentiment scoring*- Used TextBlob to score each review's polarity (positive/negative) and subjectivity.
-5. *Thematic tagging*: Used Gemini for an initial pass at theme generation, then manually verified and corrected each tag for accuracy.
-6. *Workforce segmentation*- Grouped reviews by employee_status × employee_job_title (e.g., Full-Time Warehouse Associates, Part-Time Warehouse Associates, Management & Specialized Roles, Contract & Temporary Workers).
-7. *Priority scoring*- Ranked segments using Impact × Severity × Size to identify where an intervention would have the greatest effect.
+4. *Sentiment scoring* - Used TextBlob to score each review's polarity (positive/negative) and subjectivity.
+5. *Thematic tagging* - Used Gemini for an initial pass at theme generation, then manually verified and corrected each tag for accuracy.
+6. *Workforce segmentation* - Grouped reviews by employee_status × employee_job_title (e.g., Full-Time Warehouse Associates, Part-Time Warehouse Associates, Management & Specialized Roles, Contract & Temporary Workers).
+7. *Priority scoring* - Ranked segments using Impact × Severity × Size to identify where an intervention would have the greatest effect.
 8. *Root cause analysis* - Applied the 5 Whys framework and built a root cause tree (Claude.ai-assisted) to trace surface complaints back to underlying drivers.
 9. *Friction mapping* - Mapped each friction point across Segment, Experience, Friction Point, Business Impact, and supporting employee quotes.
 10. *Intervention design* - Framed the problem ("[Segment] is experiencing [challenge], which leads to [business risk]"), posed a "How Might We" question, and designed a People/Process/Technology (PPT) pilot intervention.
