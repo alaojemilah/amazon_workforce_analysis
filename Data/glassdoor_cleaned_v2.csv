@@ -1,0 +1,257 @@
+review_id,rating_date,employee_length,employee_status,employee_type,flag_covid,flag_featured,flags_business_outlook,flags_ceo_approval,flags_recommend_frend,rating_culture_values,rating_diversity_inclusion,rating_overall,rating_work_life,summary,employee_location,employee_job_title,advice_to_management,review_pros,review_cons,rating_compensation_benefits,rating_senior_leadership,rating_career_opportunities
+1,2025-06-03T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,0,0,3.0,0,Amazon,"Richmond, VA",Warehouse Fulfillment Associate,don’t micro manage,"not interactive 
+can leave or take off whenever as long as you have time 
+easy work","inhumane 
+draining physically &amp; mentally",0,0,0
+2,2025-05-29T00:00:00.000Z,1,CONTRACT,"Current employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,5,5,4.0,3,Good,"Brampton, ON",Warehouse Associate,Remove all attitude manager from warehouse,good and easy work enviorment,"Sticks rules and completing targets any how, otherwise get warning",5,3,5
+3,2025-05-28T00:00:00.000Z,1,REGULAR,"Current employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,5,5,5.0,5,Good experience,"Bolton, ON",Warehouse Associate,,"help to grow , good pay ,","limited opportunities for advancement,No clear path for promotion",5,5,5
+4,2025-05-26T00:00:00.000Z,2,PART_TIME,Current employees,False,False,POSITIVE,APPROVE,POSITIVE,2,2,3.0,2,Dhdh,"Swedesboro, NJ",Employee,,"Plenty of work
+Meet new people","Tough on the body
+Labor intensive",2,2,3
+5,2025-05-23T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,0,0,4.0,0,Good Pay rate,"Whitby, ON",Fulfillment Associate,,"Good Holiday pay 
+Additional benefits for permanent employees",Not hiring permanent employees directly,0,0,0
+6,2025-05-18T00:00:00.000Z,2,REGULAR,Former employees,False,False,,,,3,3,3.0,3,worst American sweat shop,"Kenosha, WI",Warehouse Associate,,"Nice people, Great pay and benefits.",management does not care about its employees. hours are way to long.,4,2,3
+7,2025-05-17T00:00:00.000Z,4,REGULAR,Current employees,False,False,NEGATIVE,NO_OPINION,NEGATIVE,4,4,4.0,3,warehouse,"Oklahoma City, OK",Associate,should have physical strength,"learn lift trucks, pallet jack, flex schedule/ Shifts","fast paced working environment, weight lifting",5,5,4
+8,2025-05-15T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,2,4,2.0,1,less than ideal,,,no,decent work that wasnt too miserable,people in charge wasnt very good,3,2,4
+9,2025-05-14T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,,,,0,0,3.0,0,Amazon,"Clarksville, TN",Fulfillment Associate,Get better,"Good pay, not too long hours",Management absolutely is terrible at communicating,4,0,3
+10,2025-05-14T00:00:00.000Z,1,,"Former employee, less than 1 year",False,False,,,,0,0,2.0,0,Keep Going keep trying,"Appleton, WI",Warehouse Worker,,Workout and regularly routine habit,"More work life,  less sleep .",0,0,0
+11,2025-05-13T00:00:00.000Z,4,REGULAR,Former employees,False,False,POSITIVE,APPROVE,POSITIVE,5,5,5.0,5,Amazon Fulfillment Center BDL2,"Windsor, CT",Picker/Packer,Appreciation for employees,"Tuition reimbursement 
+Schedule flexibility 
+Benefits
+Salary
+Overtime opportunities","Standing +10 hours
+Noise
+Safety hazards 
+Overworking
+Get write ups for not meeting their rate expectations",5,4,4
+12,2025-05-07T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,0,0,3.0,0,pro/cons,"Sparrows Point, MD",WHSS,,The benefits are great and start immediately,The workplace culture is bad,0,0,0
+13,2025-05-04T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,5.0,0,warehouse associate,"Ajax, ON",Warehouse Associate,,"good pay
+stress-free
+hard working","night-shift
+overtime
+no cons at all",0,0,0
+14,2025-05-04T00:00:00.000Z,2,REGULAR,Current employees,False,False,,,,0,0,3.0,0,Not the worst,"Louisville, TN",FC Associate I,,"4 day weeks, good benefits. OT usually available",Its a physical job so prepare to be tired.,0,0,0
+15,2025-04-27T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,,,POSITIVE,0,0,4.0,1,One full year of employment,"Suffolk, VA",Shipping and Receiving,,A good reference for previous work.,No cons to my knowledge.,0,0,0
+16,2025-04-24T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,1,2.0,3,worst experience ever,"Hamilton, ON",Order Picker,"lose the hiring bias, you know what I mean",most of the people were great,"fired without notification, one day my badge just didnt work, wasting my time and my bus fare",3,1,3
+17,2025-04-24T00:00:00.000Z,1,PART_TIME,"Former employee, less than 1 year",False,False,,,,5,0,5.0,0,Amazing expirience,,Project Management Intern,,"Quality work
+Lot to learn","No contract extenscion
+Hard to find anything in Amazon again",4,0,5
+18,2025-04-23T00:00:00.000Z,2,REGULAR,Current employees,False,False,POSITIVE,APPROVE,POSITIVE,5,5,3.0,3,Good environment,"Ottawa, ON",Associate,,nice to start for students,not for long term job,5,5,5
+19,2025-04-21T00:00:00.000Z,0,PART_TIME,Current employee,False,False,,,,0,0,4.0,0,Good place,"Durham, NC",Warehouse Associate,,flexible schedule if you are felx,work can feel repetitive and boring,0,0,0
+20,2025-04-19T00:00:00.000Z,2,REGULAR,Current employees,False,False,NEUTRAL,NO_OPINION,POSITIVE,5,5,4.0,5,Great,"Reno, NV",Production,,"Nice place to work
+Nice hours for night shift 6:30pm-5am
+UPT PTO and Vacation",There is favoritism- like any other job.,4,5,5
+21,2025-04-16T00:00:00.000Z,2,REGULAR,Former employees,False,False,NEGATIVE,NO_OPINION,NEGATIVE,3,4,3.0,1,Okay for the most part,"Chicago, IL",Driver,Get better with scheduling,During peak season good pay and great hours,When peak season over it leave you struggling,3,4,2
+22,2025-04-15T00:00:00.000Z,4,REGULAR,Current employees,False,False,,,NEGATIVE,5,5,4.0,2,good company to work,"Cambridge, ON",Process Assistant,,Good pay for a process assistant.,"bit stressful, to be honest, as we have a tight workload in our station.",4,3,4
+23,2025-04-11T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,1,1.0,1,Behandlung von Mitarbeitern,Winsen (Luhe),Area Manager,"Das Management gibt vor, sich um Sie zu kümmern und Sie kennen zu lernen und Ihnen zu helfen. In Wirklichkeit geht es aber darum, Sie auszubeuten und in der Schwebe zu halten.","Die Bezahlung und die berufliche Entwicklung, die man durch die Begegnung mit vielen Menschen und das Erlernen neuer Prozesse erfährt.","In dieser FC werden Mitarbeiter und Neueinstellungen wie Nummern behandelt, und sie versuchen, dich loszuwerden, wenn du ihren toxischen Standards nicht mit den niedrigsten Manieren gerecht wirst.",4,1,2
+24,2025-04-09T00:00:00.000Z,2,REGULAR,Former employees,False,False,POSITIVE,APPROVE,POSITIVE,5,5,4.0,4,Good Benefits and Management,"Barrhaven, ON",Fulfillment Associate,,"Wage increase 3, 6, 12 month and so on.
+
+Great Full-time benefits 
+
+Work Perks and Discount through Venngo",Warehouse (repetitive work and corporation like layout) dull.. but great people and management,5,4,4
+25,2025-04-08T00:00:00.000Z,2,REGULAR,Current employees,False,False,,,,4,2,4.0,3,Its pretty good at working at Amazon,"Hamilton, ON",Associate,,Good wages as a Warehouse associate,working environment gets a little bit noisy,5,5,3
+26,2025-04-02T00:00:00.000Z,1,REGULAR,"Current employee, less than 1 year",False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,1,1.0,1,Avoid working here at all cost,"Saint Peters, MO",Picker,,"Always hours available, anytime pay","Long hours, minimal light, will write you up for bathroom breaks, mandatory overtime with little to no heads up. This place drains you emotionally and physically.",1,1,1
+27,2025-04-01T00:00:00.000Z,0,PART_TIME,Current employee,False,False,,,,0,0,4.0,0,Ok,"Corona, CA",Warehouse,,Easy starter job to work at,Can be fast paced and employment depends on management,0,0,0
+28,2025-03-31T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,3,3,3.0,5,Amazon Fulfillment Center,Illescas,Mozo de almac%C3%A9n,,"Seguridad, compañerismo, comodidad, rotativos, adaptabilidad","Trabajo cansado, fines de semana, no posibilidad de cobrar más",3,3,2
+29,2025-03-31T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,4.0,0,fun,"San Bernardino, CA",Inbound Stower,,benefits and not bad pay,no cons it was easy work people just complain,0,0,0
+30,2025-03-31T00:00:00.000Z,1,REGULAR,"Current employee, less than 1 year",False,False,,,,0,0,5.0,0,Fulfillment Center,"Aurora, CO",Warehouse Associate,,"Flexible Schedule
+4 day/10 hour shifts
+Low Stress Environment
+Frequent Overtime Opportunity","Monotonous Work
+Not Particularly Rewarding Work
+Work Can Become Slow from January to May",0,0,0
+31,2025-03-31T00:00:00.000Z,0,,Former employee,False,False,,,,0,0,4.0,0,Buen trabajo,Coslada,Mozo De Almacen,,"Buen sueldo, ambiente laboral agradable, respeto por las normas de seguridad","Descanso muy corto, muchos jefes por lo que las ordenes pueden variar de uno a otro y puede confundir al empleado.",0,0,0
+32,2025-03-27T00:00:00.000Z,2,REGULAR,Current employees,False,False,NEGATIVE,APPROVE,NEGATIVE,3,4,3.0,3,Amazon Warehouse Associate,"Ottawa, ON",Process Associate,"Try to focus more on employee engagement and break the barriers of community, race or personal biases
+Give opportunities to employees to grow rather than nurturing a neo slavery attitude
+There are many associates who are skilled and experienced but working in warehouse due to personal situation. Leadership should give them opportunity to optimize their skills and experience rather than taking their advantage and utilizing them for only labor works.","Best in class work environment
+Experience working in robotic environment
+Competitive work benefits and accommodations","Too much physical work with not much of Job security
+Pressure for target work negatively impact physical and mental health
+Biased leadership - does not justify experience skills or ability but personal connections and nepotism works more for training promotion and preferred job roles",3,2,3
+33,2025-03-26T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,NEUTRAL,APPROVE,POSITIVE,0,0,4.0,0,Hard work but decent pay,"Edgemere, MD",Order Picker,,"Good benefits, decent time off opportunities. Automatic hire without an interview.",Management will move you around the building a lot. I was a top performer in order picking and was moved to pack nearly every day.,0,0,0
+34,2025-03-26T00:00:00.000Z,1,PART_TIME,"Former employee, less than 1 year",False,False,,,POSITIVE,3,4,4.0,3,amzn,"San Antonio, TX",Fulfullment Associate,,They pay for you if you want to go to college.,it's just a lot of work you have to do,2,1,3
+35,2025-03-24T00:00:00.000Z,2,REGULAR,Current employees,False,False,NEGATIVE,,NEGATIVE,4,3,3.0,4,Salary,"Ajax, ON",Warehouse Associate,,"Good pay and benefits
+Good people 
+Safety first","Biased management 
+Work like robots
+No growth/opportunities",4,1,1
+36,2025-03-20T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,3.0,0,Amazon Warehouse,"Grand Rapids, MI",Warehouse Team Member,,It was close to home,Gloves were not strong enough,0,0,0
+37,2025-03-19T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,NEGATIVE,2,2,3.0,1,Good experience,"Tracy, CA",,,Good experience for fresh college graduate,very loud noise in Fulfillment center,3,1,4
+38,2025-03-19T00:00:00.000Z,1,PART_TIME,"Former employee, less than 1 year",False,False,,,,0,0,4.0,0,Good place to work seasonally,"West Jefferson, OH",Associate,,#NAME?,#NAME?,0,0,0
+39,2025-03-18T00:00:00.000Z,1,CONTRACT,"Former employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,4,5,5.0,4,Inbound Receiving,"Brampton, ON",Warehouse Associate,,"Good work culture and pay also
+events for extracurriculam activity",Quiet racist because most employee is belong from one group or race,5,5,5
+40,2025-03-18T00:00:00.000Z,2,REGULAR,Current employees,False,False,,,,5,5,5.0,5,Satisfied,"London, ON",Associate,,Work life balance and benefits,Mandatory extra time is required,5,5,5
+41,2025-03-13T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,POSITIVE,3,2,4.0,4,Easy money,,AA(Amazon Associate),,The pay and benefits are really good,Toxic work environment and favoritism,5,4,4
+42,2025-03-12T00:00:00.000Z,0,PART_TIME,Former employee,False,False,,,,0,0,4.0,0,Good salary and benefits,"Mississauga, ON",Warehouse Worker,,"Attractive pay , Employee Benefits",Contractual basis hiring based on business need,0,0,0
+43,2025-03-08T00:00:00.000Z,0,REGULAR,Current employee,False,False,POSITIVE,APPROVE,POSITIVE,5,5,4.0,1,Muy buena opción de trabajo.,,Mozo De Almacen,Tener coche propio ya que no hay manera de trasladarse en transporte público.,"Muy Buenos beneficios.
+Exelente ambiente de trabajo.
+Ambiente de trabajo muy seguro.
+Posibilidad de hacer carrera dentro de la empresa.","Salario no esta mal, pero se podría mejorar mucho más para el trabajo que se hace allí.
+Horarios rotativos (no te permite crear hábitos saludables ya que constantemente estás cambiando tu rutina diaria).
+Trabajo fines de semana.
+Trabajo muy repetitivo..",3,3,3
+44,2025-03-07T00:00:00.000Z,4,REGULAR,Former employees,False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,1,2.0,1,culture terrible,"San Antonio, TX",Pathways Operations Manager,,Pay is comparable for ops,"poor work life balance, lack of leadership, very stressful job. No clear way for promotion or anyone to help you get there.",4,1,3
+45,2025-03-05T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,0,0,4.0,0,Easy work,"Bolton, ON",Warehouse Associate,,"Career Choice program is a great way to start new career.
+Good benefits",Co-workers speak in non English to each other infront of you.,0,0,0
+46,2025-03-03T00:00:00.000Z,0,PART_TIME,Current employee,False,False,,,,0,0,5.0,0,Cool place to work,"Waukegan, IL",FC Associate,,Room to excel in your position,Extra shifts are never available,0,0,0
+47,2025-03-03T00:00:00.000Z,2,PART_TIME,Current employees,False,False,,,,4,4,5.0,5,Not bad,"Kent, WA",Flex Associate,,Choose own hours and the work is not bad once you get use to it,Could be moved around a lot depending on different departments and sometimes hard to find shifts that you want to work in,4,5,4
+48,2025-03-03T00:00:00.000Z,2,REGULAR,Current employees,False,False,NEUTRAL,APPROVE,POSITIVE,5,5,3.0,2,"Review of Fulfillment Centre at St. Thomas, ON",,FC Associate I,"- Provide everyone equal chance
+- Make All managers more responsible towards all associates bcz sometimes associates don't know the actual information of them when they ask help from managers and what they say to HR or Safety team
+- Hiring of positions specially PA(Process Assistant) and Learning needs to be evaluated based on your ground level performance not based on connections (if your relatives who are in higher position get  hired in PA / Learning ) 
+- Safety team needs to be more responsible bcz mostly they don't took actions against managers who needs more productivity to get promoted so that Associates are presurised to maintain those productivity and compromise safety which ultimately creates critical health issues for associates
+- Some associates got less work or promoted or learn new skills compared to others as they are favourite of Managers or relatives. Plz stop this to be fair with everyone","Pay and Benefits they provide like maternity, accommodation, insurance","Work-life balance, Continuous work without sitting, almost all location with no public transportation, lack of chance in promotion and new skills as they show they are giving fair chance to everyone but it's not true at ground level. The people of certain community especially punjabi's got promotions at HR, PA and Manager level. Lack of support from HR as they are not giving proper information when you actually need. Safety at ground level is compromised by managers bcz they want more productivity to get promotion. The people who always praised their managers got extra-benefits on work and able to learn new skills than other hard-working associates",5,3,3
+49,2025-03-02T00:00:00.000Z,2,REGULAR,Former employees,False,False,NEUTRAL,NO_OPINION,NEGATIVE,1,3,3.0,5,Too monotonous for me.,"Bessemer, AL",Inbound Stower,"I understood the safety risk thing but the rule against having SOMETHING to distract you from the noise in your head for 10-11 hrs day after day when you're someone like me was kinda rough. Almost torturous. Just let people listen to music, man. lol",I got plenty of time off for mental stuff when I needed it when other places would have fired me,Then again.. this company might've contributed alot to why I needed so much time off lmao,4,1,1
+50,2025-03-01T00:00:00.000Z,4,PART_TIME,Current employees,False,False,,,,0,0,5.0,0,It was alright.,"Hawthorne, CA",Warehouse Associate,,Great experience because I got to see the warehouse built from ground up.,Became repetitive at some point.,0,0,0
+51,2025-03-01T00:00:00.000Z,6,REGULAR,Current employees,False,False,,,NEGATIVE,1,1,1.0,4,Workplace toxicity and favoritism,Sydney,IT Support Engineer,Apply practices that you preach and ensure it is followed by all and not just by the employees in the lower tier of the Organization's hierarchy. Train the Leaders and make sure they are doing due deligence for their role. Training future leaders won't make a bigger impact if the current leaders are exercising bias and have toxic traits while moving up the ladder.,A bit of learning if you are at the right place and the right team or assigned the right team member as a mentor.,"Don't bother joining IT though, there are no financial perks in it since they don't have casual/contract roles. The contract is cleverly worded to get you to work on weekends/night shifts without offering weekend/night shift allowances. No on-call pay either but they do reimburse *mobile bills*.
+I have seen this culture in all departments and more so in IT.
+Excessive flattery towards leadership, playing office politics, Seeking favoritism from leadership, appeasing leadership for personal gain, unhealthy admiration of authority, prioritizing leadership approval over team collaboration, performing for leadership rather than contributing meaningfully, Dysfunctional work environment, Hostile workplace dynamics, Unhealthy team culture, Negative organizational climate, Counterproductive work atmosphere, Culture of fear and favoritism, Lack of psychological safety in the workplace, Unprofessional and unsupportive work environment, Workplace toxicity and favoritism.",1,1,2
+52,2025-03-01T00:00:00.000Z,2,REGULAR,Former employees,False,False,POSITIVE,APPROVE,POSITIVE,5,5,4.0,4,Pros and cons,"Whitestown, IN",Warehouse Associate,Better pay hire on opportunity insurance for employees,Good place to work for lots of hours and keep you busy no down time .,Cons low pay no insurance temp service position,1,5,1
+53,2025-02-27T00:00:00.000Z,4,REGULAR,Former employees,False,False,,DISAPPROVE,NEGATIVE,1,1,1.0,1,Promote Based On Results Not Being a ‘Yes Man’,,Operations Manager,"Value honesty and ethics, treat people better and promote based on results only not politics. Set regional records but unable to get promoted since I wouldn’t lie about an HR situation(s) that AGM was apart of. So shady!","Stocks given as bonuses, but they take 3-4 years to fully vest so can be a negative.","The expectation is to work 7 days per week and always be available via phone. Even if you work 12 hours more is expected once you’re home. 
+Upper management promotions should be based on achievements and how your team response to you, not being a ‘yes man’ The last GM/AGM were extremely unethical and only promoted people who would lie for them and they also fudged numbers",2,1,1
+54,2025-02-26T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,3.0,0,Monotonous,"Dallas, TX",Inbound Stower,,"Easy job, and can move up if desired","physically demanding
+only care about rates",0,0,0
+55,2025-02-26T00:00:00.000Z,2,REGULAR,Current employees,False,False,POSITIVE,APPROVE,POSITIVE,5,5,5.0,5,Fast-paced work with good benefits,"St. Thomas, ON",Inbound Receive Dock,Improve break times and workload balance to reduce fatigue and increase employee retention.,"Competitive pay and benefits
+Opportunity for career growth
+Fast-paced and active work environment
+Team-oriented workplace culture
+Training provided, no experience required",Repetitive tasks can be exhausting,5,5,5
+56,2025-02-25T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,3.0,0,Meh,"Illiopolis, IL",Operations Manager,,insane scope and opportunities- perks of being a part of huge company,untalented people in Sr positions that have gone far playing politics. Hard to advance if you don't have an agreeable personanlity,0,0,0
+57,2025-02-25T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,NEUTRAL,NO_OPINION,POSITIVE,4,5,4.0,2,Former Amazon Warehouse employee,"Joliet, IL",Seasonal Warehouse Associate,,"Pay, peak time/bonus pay+hours, chill staff","The labor and the lack of available resources/people for workers requests, troubles with job or app/pay.",5,3,5
+58,2025-02-25T00:00:00.000Z,2,FREELANCE,Former employees,False,False,,,,5,5,5.0,5,Good income,"San Francisco, CA",Seller,,Flexible schedule adjust your time,Too much competition sometimes you gotta lower your prices so much to get more deal but not good profit,5,5,5
+59,2025-02-25T00:00:00.000Z,0,REGULAR,Current employee,False,False,POSITIVE,APPROVE,POSITIVE,5,5,5.0,5,Best place to work,"Swindon, Wiltshire, South West England, England",AA(Amazon Associate),,"Good working environment
+Good pay",Heavy lifting . Sometimes can be stressful,5,5,5
+60,2025-02-21T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,3.0,0,Picker Pay,"Fort Wayne, IN",Picker,,It is the easiest job I ever had.,They can get rid of you whenever they want.,0,0,0
+61,2025-02-21T00:00:00.000Z,4,REGULAR,Former employees,False,False,,,,5,5,5.0,4,Super expérience,Orléans,HRA,,"Très bonne école
+salaires généreux et CB avantageux","demande un investissement personnel important,",5,5,5
+62,2025-02-19T00:00:00.000Z,1,CONTRACT,"Former employee, less than 1 year",False,False,NEGATIVE,,POSITIVE,1,2,1.0,2,Befristet für 4 Monate,"Koblenz, Rhineland-Palatinate",,Ehrliche Security Mitarbeiter anstellen,Angemessen bezahlt und es gibt kein Dresscode bis auf Stahlkappenschuhe Verbot,"Die Security nervt ( ich weiß jemand von denen hat einen Sender ) von dem Magnet Tor wo man rein und raus geht 🤔.... 
+Das Tor hat sogar dann gepiepst als ich 0 % Metal an hatte 😪",3,3,1
+63,2025-02-18T00:00:00.000Z,4,REGULAR,Current employees,False,False,NEUTRAL,APPROVE,POSITIVE,3,3,4.0,4,Fulfillment worker,"San Antonio, TX",L1 Associate,,#NAME?,#NAME?,4,3,4
+64,2025-02-18T00:00:00.000Z,9,REGULAR,Current employees,False,False,POSITIVE,NO_OPINION,POSITIVE,4,3,4.0,3,Senior Program Manager | Lean Methodologies | Learning &amp; Quality Excellence | Driving Operational Efficiency,"Carrollton, TX",Sr Program Manager,"Trust your team to get the job done, and reward them when they do. ","Growth &amp; Development
+Relationships
+Innovation
+Fun
+The Actual Work is Awesome",The cons are the same as they would be at any job.,3,3,2
+65,2025-02-18T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,0,0,5.0,0,Good,"Brampton, ON",Warehouse Associate,,"Good benefits 
+Environment
+Team work 
+Great pay",I don’t think there is any downside,0,0,0
+66,2025-02-18T00:00:00.000Z,2,REGULAR,Former employees,False,False,POSITIVE,DISAPPROVE,NEGATIVE,1,2,2.0,1,"High Pressure to Perform, Difficult to maintain Safety Standards","San Bernardino, CA",ICQA Associate,"Your HR is so protective you're losing connection with your workers, and you should allow unions so that people feel safe to work for you and build a career.","Needed a job fast, onboarding was fast, skills requirements low, pay was at a local average. It was fun to work at a robotics fulfillment center","Metrics are always a part of their work experience. Day to day optimizations, PAs always coming by to give you feedback can make it seem like all that matters is your numbers. Focus on your numbers and output, focus focus focus. Problem for me was that even though I could do great and kept a high quality, maintaining that speed and quality was really draining, especially at 10 hour shifts in an industrial environment with literally only your 2 (sometimes none) neighbors to talk to to pass the long day of repetitive tasks. That's another thing, the physical and mental aspect of the repetitious task is not just mentally draining, but despite their regular safety meetings, warnings, and signs plastered all over the place, there's so much pressure to increase performance consistently that lots of people are cutting corners just to keep from getting canned. I myself ended up with a repetitive motion injury in my hand due to pulling items out of cubbies and it's basically already covered by their policies so there's nothing to do but grin and bear it. My recommendation? Educate yourself on the safety policies, speak up loudly and frequently in group settings when you feel something isn't safe (to keep leadership accountable) and don't push yourself physically to meet your numbers. It's difficult when you've got bills to pay but not worth your long term mobility and health. Build your skills and find work with another company that respects your body more.",3,1,3
+67,2025-02-18T00:00:00.000Z,2,REGULAR,Current employees,False,False,,,,0,0,3.0,0,Good,"Bellevue, WA",Software Development Engineer (SDE),,Good work and lot to learn,Too much work and no work life balance,0,0,0
+68,2025-02-17T00:00:00.000Z,1,PART_TIME,"Former employee, less than 1 year",False,False,,,,0,0,3.0,4,Not proper training,"Portland, OR",Sortation Associate,,"Good pay, shift options and benefits",Not being able to train well their employees,0,0,3
+69,2025-02-17T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,5,5,5.0,4,Great Opportunity and Awesome Benefits,"Etna, OH",Associate,Hire me back. I didn’t know what I had until it was gone and I regret leaving.,"The benefits and how the Amazon AtoZ app worked was all great. It was so thorough and simple, and the work was repetitive but made time fly by.","There was a decent bit of people up there that didn’t speak much English and it would be hard to communicate with them sometimes, but everyone was helpful when needed.",5,4,4
+70,2025-02-13T00:00:00.000Z,0,INTERN,Former employee,False,False,,,,0,0,4.0,0,HR Partner Intern at Amazon,"Tampa, FL",HR Partner Intern,,Good pay and benefits for the interns,"Since the site is 24 hours, you may get the night shift",0,0,0
+71,2025-02-12T00:00:00.000Z,0,CONTRACT,Former employee,False,False,,,,0,0,2.0,0,"Good, not great ","Brampton, ON",Fulfillment Associate,,Daytime hours good for work/life balance,Nighttime shift is an absolute mess,0,0,0
+72,2025-02-11T00:00:00.000Z,0,INTERN,Former employee,False,False,,,,0,0,4.0,0,You get out what you put in,"Spokane, WA",Area Manager Intern,,hands on work with real experience managing associates,overwork the interns like an associate if you don't differentiate yourself or advocate for work,0,0,0
+73,2025-02-10T00:00:00.000Z,1,PART_TIME,"Current employee, less than 1 year",False,False,,,,5,5,5.0,5,great working place for starters,Paderborn,FC Associate I,,"fixed hours.
+both parttime and fulltime available",should pay more for overtime.,5,5,5
+74,2025-02-07T00:00:00.000Z,2,REGULAR,Former employees,False,False,POSITIVE,APPROVE,POSITIVE,4,4,5.0,4,Good salary but difficult targets,"Brampton, ON",Warehouse Associate,Listen to your employees,They provide a healthy salary. Every six months a salary hike and good benefits.,They ask for difficult targets. There are some internal politics that still exist.,4,4,4
+75,2025-02-06T00:00:00.000Z,4,PART_TIME,Current employees,False,False,POSITIVE,APPROVE,POSITIVE,4,5,4.0,5,Amazon job,"Delta, BC",Warehouse Worker,,"Good schedule , good pay","Heavy work load, long shifts",5,4,5
+76,2025-02-06T00:00:00.000Z,1,CONTRACT,"Current employee, less than 1 year",False,False,NEUTRAL,APPROVE,POSITIVE,5,5,5.0,5,best pay rate,"Gateshead, England",FC Associate,,"good management, best work culture, nice colleagues","shift patterns, break timings, team leads",5,5,5
+77,2025-02-04T00:00:00.000Z,4,REGULAR,Current employees,False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,2,1.0,1,Hard Pass,"Delta, BC",Process Associate,Focus more on taking care of the people who are driving your productivity and acknowledge they are why you are successful.,"Was a job that paid the bills. 
+Makes you really appreciate working somewhere else","Only cared about increasing productivity and not at all about the people. Whoever coined them as equality opportunity employees needs to look up the definition. 
+Save your physical and mental well being an look for employment elsewhere.",4,1,1
+78,2025-02-03T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,4,4,4.0,3,It's not a technical job.,"Boston, MA",Non-Inventory Receiver,,"If you want to have a smooth start at work, I think it's a good idea",Internal promotion is a bit difficult and may take a long time.,4,4,4
+79,2025-01-28T00:00:00.000Z,0,PART_TIME,Current employee,False,False,,,,4,4,4.0,4,Sueldo base Amazon técnico RME,El Prat de Llobregat,Técnico de mantenimiento industrial,,Horario flexible y muchos pluses en fin de semana,El metro tarda mucho en llegar al prat,4,4,4
+80,2025-01-28T00:00:00.000Z,2,REGULAR,Former employees,False,False,,,,0,0,4.0,0,It's a good beginner job,"Chattanooga, TN",Warehouse Packer,,"Job is not hard, the people were friendly and helpful.",12 hour work days during busy times,0,0,0
+81,2025-01-23T00:00:00.000Z,4,REGULAR,Former employees,False,False,NEGATIVE,APPROVE,POSITIVE,2,3,2.0,1,Great benefits on sign in but deteriorate rapidly after first year,"Mississauga, ON",Whs Specialist,,"Fast paced, challenging and great learning opportunities; great overall benefits from day 1","Hectic hours, little flexibility, pay structure, call out culture leads to internal fights to show who is better",3,2,2
+82,2025-01-17T00:00:00.000Z,0,REGULAR,Former employee,False,False,NEUTRAL,NO_OPINION,POSITIVE,2,4,3.0,3,"If you can deal with it, it’s a good job",,,,Very simple and not complicated,High expectations and comes with some petty drama,3,2,1
+83,2025-01-16T00:00:00.000Z,1,PART_TIME,"Current employee, less than 1 year",False,False,,,,0,0,5.0,0,Amazing,Euskirchen,Sortiermitarbeiter,,"Gute Leitungen.
+Gute Mitarbeitern
+Gute Arbeit",Es gibt keine Kontras für der Arbeit,0,0,0
+84,2025-01-15T00:00:00.000Z,0,PART_TIME,Former employee,False,False,,,,0,0,3.0,0,Good place to learn,"Warrington, North West England, England",FC Associate,,Develops a strong work ethic for employees,No consideration of human feeling within the workplace,0,0,0
+85,2025-01-11T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,POSITIVE,NO_OPINION,POSITIVE,4,4,3.0,5,"Amazon FC Hamilton, a great place to work","Hamilton, ON",Associate,Eliminate the hiring freeze.,"I made a mistake leaving, never should have. Hard job to do, but well worth it.","Can't get rehired. They aren't hiring now, or for the last while",4,3,3
+86,2025-01-11T00:00:00.000Z,2,REGULAR,Former employees,False,False,,,NEGATIVE,2,3,3.0,1,Don't get too comfortable,"Dallas, TX",Associate,,"The pay is not bad, and you are paid weekly.","They work you like a dog, regardless of age or ability. Their retention rate is ridiculous, and their managers always quit or are moved around.",3,3,2
+87,2025-01-11T00:00:00.000Z,1,REGULAR,"Current employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,5,5,3.0,3,Hard work,"Huntley, IL",Palletizer,Move people around so they can get a break on positions. Give equal work to everyone . My manager favors groups of people,Can work with friends and can sometimes take your time. The job comes with sOME benefits,"A lot of work on the body. Depending where you’re placed, you’re doing the same thing for 10+ hours straight . lifting heavy heavy boxes.",5,2,5
+88,2025-01-10T00:00:00.000Z,0,PART_TIME,Current employee,False,False,,,,3,4,3.0,2,Rating,"Edison, NJ",Stower,,"Make own hours
+Good pay
+Free food sometimes","Receptive 
+Brain mush
+Boring
+Physically and mentally draining",3,3,3
+89,2025-01-10T00:00:00.000Z,4,REGULAR,Current employees,False,False,POSITIVE,APPROVE,NEGATIVE,4,4,3.0,4,Amazing company,"Hamilton, ON",Associate,Be kind,Benefit and vacation and TPO,Big loads hard hours long,4,4,4
+90,2025-01-10T00:00:00.000Z,2,REGULAR,Former employees,False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,4,3.0,3,Heavy lifting,"Grimes, IA",Associate,,"Ok money, good supervisors, swag bucks",Heavy lifting/ safety is a concern but don't expect them to care or pay you for your injuries,2,2,3
+91,2025-01-09T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,,,,0,0,4.0,0,"Fulfillment Center Warehouse Associate Review – Amazon MTN1, Wilmington","Wilmington, DE",Fulfillment Center Warehouse Associate,"Streamline workflows to reduce strain during peak seasons.
+Enhance recognition programs to boost morale.
+Provide better training for new and current associates.
+Act on employee feedback to improve job satisfaction.","Competitive pay and benefits (healthcare, 401k, stock options).
+Opportunities for career advancement and skill development.
+Fast-paced, engaging work environment.
+Supportive team culture with approachable management.
+Job stability with a global company.","Physically demanding, especially during peak seasons.
+Long shifts with limited break times.
+Fluctuating workload, sometimes stressful.
+Noisy warehouse environment.",0,0,0
+92,2025-01-08T00:00:00.000Z,1,REGULAR,"Current employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,1,1,2.0,1,It was terrible,"Monroe, OH",Cherry Picker,Stop flirting with employees and trying to get your way.,The pay was good that’s pretty much it,It’s a lot of drama and it’s all about who you know to do what you wanna do there. Even if you get a different roll you still will be paid the same.,5,1,1
+93,2025-01-08T00:00:00.000Z,1,PART_TIME,"Current employee, less than 1 year",False,False,,,POSITIVE,4,4,4.0,5,Good Part Time opportunity,"Lubbock, TX",Seasonal Associate,,"The job is repetitive, relatively easy to learn. HR is onsite and helpful.","The job is physically demanding, but once you get used to it it isn't so bad. Work ethic varies greatly, and hard work is not appreciated besides compliments from managers.",4,3,3
+94,2025-01-03T00:00:00.000Z,2,REGULAR,Former employees,False,False,POSITIVE,DISAPPROVE,NEGATIVE,3,4,3.0,2,MCO1 Stow,"Orlando, FL",Warehouse Associate,stowers for waterspiders should not have such an indirect role -- they really do need just a little bit more direction/labor tracking.,"decent pay for the type of work
+great benefits (insurance, 401k, company stock and education/Career Choice)
+generous time-off policy
+plenty of people to get to know if you are a people person","very physically demanding
+keeping your job depends on your rate -- your rate can depend on your waterspider who may not care that you do not have enough work/""good"" work to make rate and stay out of the bottom 5%",4,3,2
+95,2025-01-02T00:00:00.000Z,0,PART_TIME,Current employee,False,False,,,,1,5,3.0,5,Its okay,"Robbinsville, NJ",Warehouse Sortation Associate,,It pays the bills I guess.,The flex up / flex down thing here can be really annoying.,3,2,1
+96,2025-01-01T00:00:00.000Z,4,REGULAR,Former employees,False,False,NEUTRAL,NO_OPINION,POSITIVE,4,4,3.0,4,Good place,"Etna, OH",AA(Amazon Associate),Management keeps rotating,Work on your own terms,Heavy items when slow season,3,3,3
+97,2024-12-29T00:00:00.000Z,1,CONTRACT,"Current employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,5,5,5.0,5,unkn,"Manchester, England",Warehouse Fulfillment Associate,the management is very good,Very good and nice culture,need to improve the salary range,5,5,5
+98,2024-12-29T00:00:00.000Z,0,PART_TIME,Former employee,False,False,,,POSITIVE,0,0,5.0,0,A good place to work at,"Dallas, TX",ICQA Associate,Stay off the cat walk,The benefits starts on day1,The standing for a long period of times and short lunches,0,0,0
+99,2024-12-27T00:00:00.000Z,2,PART_TIME,Former employees,False,False,NEUTRAL,NO_OPINION,NEGATIVE,2,5,2.0,3,Wasn’t the greatest,"Greenfield, IN",Sorter Loader,,"The pay was good, and the time off accumulating every shift was nice","They really didn’t care about their workers when I worked there. 
+Bathroom breaks were like they were not acceptable",2,3,2
+100,2024-12-25T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,5,1.0,2,Not worth for the weather and long shifts,"Orlando, FL",Driver Associate,Don't tell your incoming employees that you'll offer bonuses and then say sike when they get hired,"Simple to do, 4 day work week","10 hour shifts and have to deal with heat and rain,",1,1,1
+101,2024-12-25T00:00:00.000Z,0,PART_TIME,Current employee,False,False,POSITIVE,APPROVE,POSITIVE,2,4,3.0,3,Decent,,Associate,,Decent pay here at this job nothing too crazy,As a part time you only get 15 mins break,2,3,3
+102,2024-12-17T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,5,5,5.0,5,A nice place to work,"Scarborough, ON",Warehouse Associate,,You will gain alot of knowledge,Be ready to stand for the whole shift,5,5,5
+103,2024-12-17T00:00:00.000Z,20,REGULAR,Current employees,False,False,,,POSITIVE,5,5,5.0,5,Great Benefits,"Charleston, TN",Human Resource Associate Partner,,Mutiple time off options. Above average health insurance options.,"Small department, not a lot of room to move up without moving.",4,5,5
+105,2024-12-16T00:00:00.000Z,4,REGULAR,Current employees,False,False,,,,1,1,1.0,1,Physically Demanding job,"San Bernardino, CA",Quality Control,,lots of overtime. Worked 60hours/week,"The cons are the same as the pros, but this website doesn't allow me to copy the same response.",1,1,1
+106,2024-12-15T00:00:00.000Z,2,PART_TIME,Current employees,False,False,POSITIVE,DISAPPROVE,POSITIVE,3,4,4.0,3,Decent Pay,"Sparrows Point, MD",Associate,,"Freedom
+Opportunities
+Career choice
+Decent Pay","Physically tiring
+Poor Training
+Not enough benefits",3,3,3
+107,2024-12-15T00:00:00.000Z,2,REGULAR,Former employees,False,False,,,,1,3,1.0,1,Cold,"Rugeley, England",,,"Good managers, a lot of overtime available",Cold warehouse. Lonely isolating job,1,3,1
+108,2024-12-14T00:00:00.000Z,2,REGULAR,Current employees,False,False,POSITIVE,APPROVE,POSITIVE,3,4,5.0,4,Pay,"St. Thomas, ON",Associate,,Good pay rate for Associates,Lot of internal politics in the Amazon warehouses,5,5,5
+109,2024-12-12T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,0,0,5.0,0,Good place,"Council Bluffs, IA",Associate,,Good place to start a warehouse job.,Temperature is a little chilly.,0,0,0
+110,2024-12-11T00:00:00.000Z,2,REGULAR,Former employees,False,False,,,,0,0,3.0,0,Boring,"Jeffersonville, IN",ICQA Associate,,"PTO, same work every night.",Lots of turn over. Monotonous,0,0,0
+111,2024-12-08T00:00:00.000Z,4,REGULAR,Former employees,False,False,,,,5,5,4.0,4,Amazon,"Goodyear, AZ",Warehouse Worker,,They have really good benefits,Some jobs can get overwhelming,5,4,5
+112,2024-12-07T00:00:00.000Z,0,REGULAR,Current employee,False,False,,,,0,0,4.0,0,Good Job and Pay,"Leeds, England",Warehouse Associate,,"Easy, not much weight to handle","long shifts, stationed in one place",0,0,0
+113,2024-12-05T00:00:00.000Z,4,REGULAR,Current employees,False,False,,,NEGATIVE,2,3,3.0,1,"Good money, hardwork","Edmonton, AB",Associate,,Good money better than average job,"Favouritism, no appreciation, more work you do more you’ll get, less work you do less they will give",3,3,3
+114,2024-12-04T00:00:00.000Z,9,REGULAR,Current employees,False,False,POSITIVE,NO_OPINION,POSITIVE,3,5,3.0,1,Hard work,"Windsor, CT",Packer,,Fast Advancements and great benefits,Very high turnover and not much accountability. Very long hours during holiday season.,3,3,3
+115,2024-12-03T00:00:00.000Z,2,PART_TIME,Current employees,False,False,POSITIVE,APPROVE,POSITIVE,3,3,3.0,3,Not Bad,"Avenel, NJ",FC Associate I,Lower the rate. Or increase the pay. And give out more shifts.,Simple work is required of you.,Their rate per hour is slightly unreasonable due to the fact if the items are heavy in total it’s harder to walk around while pushing the heavy cart.,3,3,3
+116,2024-12-03T00:00:00.000Z,4,REGULAR,Current employees,False,False,NEGATIVE,DISAPPROVE,NEGATIVE,1,1,1.0,1,Good benefits bad work culture,"Saint Louis, MO",Inbound Stower,"We are humans with our own lives outside of work. We are somebody’s child, wife, husband, father, mother or grandparent. We are not robots or machines to use and toss away whenever you feel like it. To some of us Amazon is one of our only choices to make a living for our families.","Great benefits, very flexible, lots of different positions to try out incase you don’t like your main role. Free holiday meals once a year. Come and leave work whenever you want using your unpaid time or pto. They lay for school and offer career programs although the tests to get into them are very difficult","Forced mandatory extra time. (My MET was 5 days of 11 1/2 hours and my regular shift is 3 days of 12 hours) you will get forced to cross trained and you will get labor shares to different departments wether you like that position or not. They have a very high expectations for making “rates” in your position. Managers and anyone in lead positions will micromanage and breathe down your neck. You are always getting watched and judged and everyone will shut down any minimal concern you have because nobody cares. They just care about saving their own behind. If you get hurt, well you better pray that you don’t because their AmCare will send you to their own doctor and they will lie and say you weren’t hurt at all so that they don’t have to pay for your injury or have you sue them. Some departments are very strict and WILL find reasons to write you up. You have to use some of your break time to get back to your station and sign in and scan something by the end of your break or you will get in trouble. You will use some of your break time just walking to the break area because it is SO far and so are the restrooms and don’t forget you need to use your break time to come back from break on time or you’ll get in trouble",3,1,3
+117,2024-12-02T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,3.0,0,Amazon,"Orlando, FL",Picker,,A lot of hard work,Only care about the numbers,0,0,0
+118,2024-11-30T00:00:00.000Z,2,PART_TIME,Current employees,False,False,,APPROVE,POSITIVE,5,5,5.0,4,Amazon review,"Ottawa, ON",Associate,,"It has good base pay, health benefits, and paid vacation.",Work is heavy sometimes and need physical strength.,5,5,5
+119,2024-11-29T00:00:00.000Z,1,REGULAR,"Current employee, less than 1 year",False,False,,APPROVE,POSITIVE,0,0,5.0,5,I loved working there,"Coconut Creek, FL",Picker/Packer,"Focus on Employee Well-Being.
+Encourage a balance between productivity and employee health. Consider frequent breaks, ergonomic assessments, and wellness programs.","Employment stability 
+Competitive pay
+Benefits 
+Diverse workforce","Physical demands 
+Management challenges 
+Monotonous tasks
+High turnover rates
+Fast spaced environment",5,0,5
+120,2024-11-27T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,0,0,5.0,0,The pay is good but the work sometimes can be a bit.... Boring,"Charlotte, NC",Picking Associate,,Paid by the hour and if u stay long enough u get better pay well at least 1$ up,From what I've heard they treat ya like a number or a robot,0,0,0
+121,2024-11-26T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,POSITIVE,NO_OPINION,POSITIVE,3,5,4.0,2,Great place to start oit,"Calgary, AB",Dock Worker,,"Great benefits, great people to work with.",The work is very physically demanding,5,5,3
+122,2024-11-23T00:00:00.000Z,1,REGULAR,"Former employee, less than 1 year",False,False,POSITIVE,APPROVE,POSITIVE,4,3,4.0,3,Salary at Amazon,"Sioux Falls, SD",Reliability & Maintenance Engineering,,Good pay from the company and lovely colleagues,Too much heat and a lot of noise,4,4,4
+123,2022-12-09T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,2,1,2.0,3,nothign,"St. Thomas, ON",Warehouse Worker,,good pay and nice shift hours,politics and partiality play a major role,4,1,2
+124,2024-11-19T00:00:00.000Z,2,REGULAR,Former employees,False,False,,,,3,3,3.0,1,General,"Dartford, England",Warehouse Operative,,Flexible working schedules and good pay,Extremely physical. Employees treated as machine sometimes.,4,3,4
+125,2022-11-18T00:00:00.000Z,0,REGULAR,Former employee,False,False,,,,1,1,1.0,1,Review,"Ottawa, ON",Warehouse Associate,"Treat associates with respect and dignity. Foster a more supportive environment, especially during challenging times, and ensure fair treatment for all employees, including those dealing with work-related injuries.","Good benefits.
+Valuable working experience.
+Opportunities to learn and grow.","Poor management support.
+Lack of understanding during personal hardships.
+Unfair treatment when injured on the job.
+High-pressure environment with unrealistic expectations at times.",1,1,1
+126,2022-10-22T00:00:00.000Z,0,REGULAR,Current employee,False,False,NEUTRAL,NO_OPINION,NEGATIVE,1,5,2.0,1,"Pay Ok, Work too stressful","Charlotte, NC",Fulfillment Associate,Be more patient to new workers and let them have time to learn or you will scare them away,Pay is regular and quick and decent,,3,1,1
+127,2022-10-25T00:00:00.000Z,3,REGULAR,Former employee,False,False,NEUTRAL,NO_OPINION,NEGATIVE,3,2,2.0,1,Not the best job,,Senior IT Technician,Provide constructive realistic feedback to all employees,"Name recognition, close to where I lived",Feedback was used against the employee,3,2,2
+128,2022-10-23T00:00:00.000Z,5,REGULAR,Current employee,False,False,NEGATIVE,NO_OPINION,NEGATIVE,3,4,,2,To servive,"Harrisburg, PA","Process assistant, fc associate iii",,Great pay..consideringthe cons,"You must have some previous management experience to display in interview, using STAR format.
+Also, must incorporate Amazons Core Leadership Principles. Unusual Mental Stress should be in the job posting.",4,2,4
+129,2022-11-13T00:00:00.000Z,1,REGULAR,Current employee,False,False,POSITIVE,NO_OPINION,POSITIVE,5,5,5.0,5,Good management and great company to work with,"Brampton, ON",Associate,No suggestion but just that they are doing their job very well,"Considering each and every employee and appreciating their hard work through a good salary package, benefits, and career growth opportunities.",I have no cons to mention so far about this workplace.,5,5,4
+130,2022-11-11T00:00:00.000Z,3,REGULAR,Current employee,False,False,NEUTRAL,NO_OPINION,,2,2,3.0,2,Day 1,,Area manager,Understand the value of the people on your team.Remember people service goes both ways.,A job where you learn the most,Very little chance for advancement,3,2,2
+131,2022-12-15T00:00:00.000Z,1,REGULAR,Current employee,False,False,POSITIVE,NO_OPINION,POSITIVE,5,5,5.0,5,Amazon company to work for if your willing to work,,Warehouse Associate,,4 day work week pay management is supportive when it comes to development,Must meet certain metrics peak hours lack of staff,5,5,5
+132,2022-12-29T00:00:00.000Z,0,REGULAR,Former employee,False,False,NEGATIVE,NO_OPINION,NEGATIVE,1,1,1.0,3,Only work there if you have no other options,"Carrollton, TX",Warehouse Associate,,"Easy to learn, fun at the beginning, big company","Lots of change in management, no real accommodation",3,1,2
+133,2023-01-18T00:00:00.000Z,3,REGULAR,Current employee,False,False,,NO_OPINION,NEGATIVE,2,4,3.0,2,If you don't have other choices,"Derby, England",Fulfillment Associate,,Coworkers are very friendly and you can work within a good team.,,4,1,2
+134,2023-01-19T00:00:00.000Z,0,REGULAR,Current employee,False,False,POSITIVE,NO_OPINION,POSITIVE,4,4,5.0,3,I personally feel it is worth working with amazon,"Hamilton, ON",Warehouse process guide,,Good Pay and Benefits. Corporate skills,Hard and Heavy work and established target based work,4,3,4
+135,2023-01-22T00:00:00.000Z,0,REGULAR,Former employee,False,False,,NO_OPINION,NEGATIVE,1,1,2.0,1,Poor,,Warehouse operative,,The pay was the only thing keeping me going,Long hours -Favouritism -Managers don't care for workers,3,1,3
+136,2023-02-01T00:00:00.000Z,0,REGULAR,Current employee,False,False,POSITIVE,NO_OPINION,POSITIVE,0,0,5.0,0,Amazon,"Ajax, ON",FC Associate I,Keep up the good work,We get payed every week,No shuttle buses available for people coming from Scarborough,0,0,0
+137,2023-02-07T00:00:00.000Z,1,REGULAR,Current employee,False,False,,NO_OPINION,,5,5,5.0,5,Amazon,,FC Associate I,,Pay and benefits are topnotch,There aren't any that i can think of,5,5,5
+138,2023-02-11T00:00:00.000Z,0,REGULAR,Former employee,False,False,POSITIVE,NO_OPINION,NEGATIVE,5,5,3.0,5,Wonderful unless you have poor lungs,,Employee,Please fix the issue with people smoking weed at work. Some people have lung issues,"Great pay, easy work, excellent management. Lots of tlexible pto","EVERYONE IS SOMKING WEED EVERY DAY you
+WILL be second hand smoking week DO NOT work here if you have breathing issues or are pregnant or planning to become pregnant",5,5,5
+139,2023-02-19T00:00:00.000Z,5,REGULAR,Current employee,False,False,POSITIVE,NO_OPINION,POSITIVE,4,4,4.0,4,Inbound Stower,"Stone Mountain, GA",Stower,Prepare lunch to save money.,Pay is okay. Just don't be late,It feels tedious and boring,4,4,4
+140,2023-02-21T00:00:00.000Z,0,REGULAR,Current employee,False,False,NEUTRAL,NO_OPINION,,1,4,3.0,5,Amazon warehouse,"Wilmer, TX",Warehouse Associate,More fans,Flexible. Good amount of PTO/VTO,Sometimes it's hot inside and there is no AC.,2,3,3
+141,2023-03-04T00:00:00.000Z,0,REGULAR,Former employee,False,False,POSITIVE,NO_OPINION,POSITIVE,4,5,5.0,5,Working experience,,Remote product tester,Break ideas down to the simplest key to achieve success,"It was nice working as an Amazon fulfillment Associate, I liked making the friends I made-the managers were awesome.",The hrs were just gruesomely killing me that's why ! don't work there any more.,5,4,4
